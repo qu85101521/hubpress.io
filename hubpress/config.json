@@ -1,10 +1,27 @@
 {
   "meta": {
-    "username": "put your username here",
-    "repositoryName": "put your repository name here",
+    "username": "qu85101521",
+    "repositoryName": "hubpress.io",
     "branch": "master"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://qu85101521.github.io",
+    "hubpress": "https://scout-agatha-15536.netlify.com",
+    "theme": "//qu85101521.github.io/themes/casper",
+    "images": "https://qu85101521.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_Ctor": {}
   }
 }
